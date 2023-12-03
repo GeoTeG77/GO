@@ -1,2 +1,1 @@
 
-	fmt.Println(normmap)
