@@ -1,0 +1,30 @@
+package main
+
+import 
+fmt
+
+var countOfPlayer int
+var isWar,host bool
+
+type map struct {
+	typeOfMap string
+	typeOfSpawn string
+	countOfFreeCity int
+ 
+}
+type player struct {
+	position int
+	name string
+	nation string
+	host bool
+	
+
+}
+
+
+func main()  {
+	var countOfPlayer int
+	var isWar,host bool
+
+
+}

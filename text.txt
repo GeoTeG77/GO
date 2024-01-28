@@ -1,0 +1,4 @@
+Text to file. Hello
+ From
+ Go
+	Tab
